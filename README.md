@@ -25,5 +25,5 @@ The dataset contains another file, called batches.meta. It too contains a Python
 * label_names - a 10-element list which gives meaningful names to the numeric labels in the labels array described above. For example, label_names[0] == "airplane", label_names[1] == "automobile", etc.
 
 The sample image of the first two rows is shown below by using the matplotlib package.
-<img src="img/img1.png">
+<img src="img/img1.png" width="100">
 <img src="img/img2.png">
